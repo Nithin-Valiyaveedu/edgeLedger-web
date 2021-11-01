@@ -163,3 +163,20 @@ img {
 .callbackform input:focus{
   outline-color: #28a745;
 }
+
+.footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.footer .social{
+  margin-top: 10px ;
+}
+
+.footer a{
+  padding: 10px;
+  color:white;
+}
